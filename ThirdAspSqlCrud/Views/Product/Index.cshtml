@@ -1,0 +1,19 @@
+﻿@model IEnumerable<ThirdAspSqlCrud.Entities.Product>
+
+<html>
+<head>
+</head>
+<body>
+    <div class="container bg-secondary border border-success rounded pb-3">
+        <h2 class="text-light">Products</h2>
+        @foreach (var item in Model)
+        {
+            <section class="text-black text-capitalize p-2">
+                <span class="fw-bolder">@item.Id</span>. @item.Name - <span class="font-monospace">@item.Description - $@item.Price</span>
+                <a class="btn alert-warning btn-success p-1" asp-controller="Product" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </section>
+        }
+        <a class="btn bg-dark btn-secondary d-block" asp-action="Add" asp-controller="Product">Add</a>
+    </div>
+</body>
+</html>

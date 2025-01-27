@@ -1,0 +1,41 @@
+﻿@model ProductAddViewModel
+
+<style>
+    .select1 {
+        padding-bottom: 10px;
+        font-weight: 600;
+    }
+</style>
+<form asp-action="Add" method="post" asp-controller="product">
+    <section class="container border border-primary rounded p-4 text-center w-75">
+        <section class="select1">
+            <label asp-for="Product.Name"></label>
+            <input asp-for="Product.Name" />
+        </section>
+
+        <section class="select1">
+            <label asp-for="Product.Description"></label>
+            <input asp-for="Product.Description" />
+        </section>
+
+        <section class="select1">
+            <label asp-for="Product.Discount"></label>
+            <input asp-for="Product.Discount" />
+        </section>
+
+        <section class="select1">
+            <label asp-for="Product.Price"></label>
+            <input asp-for="Product.Price" />
+        </section>
+
+        <section class="select1">
+            <label asp-for="Product.ImgLink"></label>
+            <input asp-for="Product.ImgLink" />
+        </section>
+
+        <section>
+            <button class="btn d-block btn-dark w-100" type="submit">Add</button>
+        </section>
+    </section>
+
+</form>
