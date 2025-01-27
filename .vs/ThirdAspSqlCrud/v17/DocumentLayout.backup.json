@@ -3,56 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\models\\producteditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\models\\producteditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\models\\productaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\models\\productaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\views\\product\\getwithid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\views\\product\\getwithid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|c:\\users\\asus\\source\\repos\\thirdaspsqlcrud\\thirdaspsqlcrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F121A212-5575-42AD-B654-24E8D3DA5842}|ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj|solutionrelative:thirdaspsqlcrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_NB7MT4D_SQLEXPRESS/ProductDb/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -85,76 +97,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Repository\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Repository\\ProductRepository.cs",
               "RelativeToolTip": "ThirdAspSqlCrud\\Repository\\ProductRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T16:36:52.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Services\\IProductService.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Services\\IProductService.cs",
-              "RelativeToolTip": "ThirdAspSqlCrud\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T10:21:52.317Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\Product\\Index.cshtml*",
+              "RelativeToolTip": "ThirdAspSqlCrud\\Views\\Product\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T12:16:53.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Services\\ProductService.cs",
-              "RelativeToolTip": "ThirdAspSqlCrud\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "ThirdAspSqlCrud\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T12:28:39.753Z",
+              "WhenOpened": "2025-01-26T16:35:43.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Models\\ProductEditViewModel.cs",
+              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Models\\ProductEditViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Models\\ProductEditViewModel.cs",
+              "RelativeToolTip": "ThirdAspSqlCrud\\Models\\ProductEditViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:55:32.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductAddViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Models\\ProductAddViewModel.cs",
+              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Models\\ProductAddViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Models\\ProductAddViewModel.cs",
+              "RelativeToolTip": "ThirdAspSqlCrud\\Models\\ProductAddViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:56:34.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Entities\\Product.cs",
+              "RelativeToolTip": "ThirdAspSqlCrud\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:13:23.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ThirdAspSqlCrud\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwB0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T15:42:55.341Z",
+              "Title": "GetWithId.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\Product\\GetWithId.cshtml",
+              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Views\\Product\\GetWithId.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\Product\\GetWithId.cshtml",
+              "RelativeToolTip": "ThirdAspSqlCrud\\Views\\Product\\GetWithId.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T21:16:33.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\Product\\Add.cshtml",
               "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Views\\Product\\Add.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\Product\\Add.cshtml*",
-              "RelativeToolTip": "ThirdAspSqlCrud\\Views\\Product\\Add.cshtml*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "ThirdAspSqlCrud\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-27T14:59:08.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ThirdAspSqlCrud\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswEYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T15:42:55.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Services\\IProductService.cs",
+              "RelativeToolTip": "ThirdAspSqlCrud\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:21:52.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "ThirdAspSqlCrud\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T20:05:05.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Views\\Home\\Index.cshtml",
@@ -167,85 +257,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Entities\\Product.cs",
-              "RelativeToolTip": "ThirdAspSqlCrud\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T16:13:23.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductAddViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Models\\ProductAddViewModel.cs",
-              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Models\\ProductAddViewModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Models\\ProductAddViewModel.cs",
-              "RelativeToolTip": "ThirdAspSqlCrud\\Models\\ProductAddViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T14:56:34.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Repository\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Repository\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Repository\\IProductRepository.cs",
-              "RelativeToolTip": "ThirdAspSqlCrud\\Repository\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T16:35:43.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "ThirdAspSqlCrud\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T12:26:01.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "ThirdAspSqlCrud\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T12:16:53.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "ThirdAspSqlCrud\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T14:19:30.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Services\\ProductService.cs",
+              "RelativeToolTip": "ThirdAspSqlCrud\\Services\\ProductService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:28:39.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Controllers\\HomeController.cs",
@@ -258,17 +283,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "dbo.Products [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_NB7MT4D_SQLEXPRESS/ProductDb/True/SqlTable/dbo.Products.sql",
-              "ToolTip": "dbo.Products [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-27T14:28:33.904Z",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ThirdAspSqlCrud\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:26:01.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ThirdAspSqlCrud\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T14:19:30.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_NB7MT4D_SQLEXPRESS/ProductDb/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-27T14:28:33.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Program.cs",
               "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Program.cs",
@@ -281,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Views\\_ViewStart.cshtml",
@@ -289,11 +339,12 @@
               "RelativeToolTip": "ThirdAspSqlCrud\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T12:22:54.917Z"
+              "WhenOpened": "2025-01-27T12:22:54.917Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Views\\_ViewImports.cshtml",
@@ -301,11 +352,12 @@
               "RelativeToolTip": "ThirdAspSqlCrud\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T12:22:55.832Z"
+              "WhenOpened": "2025-01-27T12:22:55.832Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "ProductDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\Data\\ProductDbContext.cs",
               "RelativeDocumentMoniker": "ThirdAspSqlCrud\\Data\\ProductDbContext.cs",
@@ -313,11 +365,12 @@
               "RelativeToolTip": "ThirdAspSqlCrud\\Data\\ProductDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T16:16:54.35Z"
+              "WhenOpened": "2025-01-26T16:16:54.35Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\appsettings.json",
               "RelativeDocumentMoniker": "ThirdAspSqlCrud\\appsettings.json",
@@ -325,7 +378,8 @@
               "RelativeToolTip": "ThirdAspSqlCrud\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-26T16:07:39.593Z"
+              "WhenOpened": "2025-01-26T16:07:39.593Z",
+              "EditorCaption": ""
             }
           ]
         }

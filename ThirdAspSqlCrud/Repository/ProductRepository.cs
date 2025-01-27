@@ -2,6 +2,7 @@
 using System.Diagnostics.Eventing.Reader;
 using ThirdAspSqlCrud.Data;
 using ThirdAspSqlCrud.Entities;
+using ThirdAspSqlCrud.Models;
 
 namespace ThirdAspSqlCrud.Repository
 {
@@ -43,10 +44,10 @@ namespace ThirdAspSqlCrud.Repository
             }
         }
 
-        public async Task<List<Product>> GetWithId(int id)
+        public async Task<Product> GetWithId(int id)
         {
             var product = await _context.Products.Where(a => a.Id == id).FirstOrDefaultAsync();
-            return product == null ? new List<Product>() : new List<Product> { product };
+            return product == null ? throw new Exception() :  product ;
         }
 
         public async Task<bool> DeleteAsync(int id)
@@ -59,6 +60,34 @@ namespace ThirdAspSqlCrud.Repository
             _context.Products.Remove(product);
             await _context.SaveChangesAsync();
             return true;
+        }
+
+        public async Task Update(int id, ProductEditViewModel vm)
+        {
+            var prod = await _context.Products.FirstOrDefaultAsync(a => a.Id == id);
+            if (prod is not null)
+            {
+                prod.Name = vm.Product.Name;
+                prod.Description = vm.Product.Description;
+                prod.Price = vm.Product.Price;
+                prod.Discount = vm.Product.Discount;
+                prod.ImgLink = vm.Product.ImgLink;
+                _context.Products.Update(prod);
+                await _context.SaveChangesAsync();
+            }
+            else { throw new Exception(); }
+        }
+
+        public async Task Update(int id)
+        {
+            var prod = await _context.Products.FirstOrDefaultAsync(a => a.Id == id);
+            if(prod is not null)
+            {
+                var vm = new ProductEditViewModel()
+                {
+                    Product = prod
+                };
+            }
         }
     }
 }

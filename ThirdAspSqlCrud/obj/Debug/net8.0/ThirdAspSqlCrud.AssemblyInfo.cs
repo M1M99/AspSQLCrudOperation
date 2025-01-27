@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThirdAspSqlCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a8c1301414e15afcf5a7044450b3d3748de6470")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThirdAspSqlCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThirdAspSqlCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

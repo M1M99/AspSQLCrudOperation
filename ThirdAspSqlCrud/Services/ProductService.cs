@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ThirdAspSqlCrud.Entities;
+using ThirdAspSqlCrud.Models;
 using ThirdAspSqlCrud.Repository;
 
 namespace ThirdAspSqlCrud.Services
@@ -28,7 +29,7 @@ namespace ThirdAspSqlCrud.Services
             return await _productRepository.GetByKeyAndIdAsync(key, id);
         }
 
-        public async Task<List<Product>> GetWithId(int id = 0)
+        public async Task<Product> GetWithId(int id = 0)
         {
             return await _productRepository.GetWithId(id);
         }
@@ -36,6 +37,15 @@ namespace ThirdAspSqlCrud.Services
         public async Task<bool> DeleteAsync(int id)
         {
             return await _productRepository.DeleteAsync(id); 
+        }
+
+        public async Task Update(int id,ProductEditViewModel vm)
+        {
+            await _productRepository.Update(id,vm);
+        }
+        public async Task Update(int id)
+        {
+            await _productRepository.Update(id);
         }
     }
 }

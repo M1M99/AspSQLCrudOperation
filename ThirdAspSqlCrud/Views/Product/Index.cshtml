@@ -4,14 +4,28 @@
 <head>
 </head>
 <body>
-    <div class="container bg-secondary border border-success rounded pb-3">
-        <h2 class="text-light">Products</h2>
-        @foreach (var item in Model)
+    <div>
+        @if (Model.Any())
         {
-            <section class="text-black text-capitalize p-2">
-                <span class="fw-bolder">@item.Id</span>. @item.Name - <span class="font-monospace">@item.Description - $@item.Price</span>
-                <a class="btn alert-warning btn-success p-1" asp-controller="Product" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </section>
+            <div class="container bg-secondary border border-success rounded pb-3">
+                <h2 class="text-light">Products</h2>
+                @foreach (var item in Model)
+                {
+                    <section class="text-black text-capitalize p-2">
+                        <span class="fw-bolder">@item.Id</span>. <span class="text-light">@item.Name</span> - <span class="font-monospace text-light">@item.Description - $@item.Price</span>
+                        <img style="width:30px;height:30px" src="@(!string.IsNullOrEmpty(item.ImgLink) ? item.ImgLink : "default-scaled.jpeg")" />
+                        <a class="btn alert-warning btn-success p-1" asp-controller="Product" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                        <a class="btn alert-warning btn-success p-1" asp-controller="Product" asp-action="update" asp-route-id="@item.Id">Update</a>
+                        <a asp-action="GetWithId" class="btn alert-dark btn-success p-1" asp-route-id="@item.Id">Details</a>
+                    </section>
+                }
+            </div>
+        }
+        else
+        {
+            <div>
+                <h2 class="text-black text-center">Have Not Any Product</h2>
+            </div>
         }
         <a class="btn bg-dark btn-secondary d-block" asp-action="Add" asp-controller="Product">Add</a>
     </div>

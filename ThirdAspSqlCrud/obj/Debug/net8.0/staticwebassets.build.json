@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KQFahDlswns6J72xtaklIz1r3YmEm8+4JYfpAxPZzAc=",
+  "Hash": "bX9su7wYqi3rwXvLXCA4an2SXkP0+DDlRhPZzOHP6CI=",
   "Source": "ThirdAspSqlCrud",
   "BasePath": "_content/ThirdAspSqlCrud",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\wwwroot\\default-scaled.jpeg",
+      "SourceId": "ThirdAspSqlCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\wwwroot\\",
+      "BasePath": "_content/ThirdAspSqlCrud",
+      "RelativePath": "default-scaled.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default-scaled.jpeg"
     },
     {
       "Identity": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\wwwroot\\favicon.ico",
@@ -1193,6 +1212,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\wwwroot\\pexels-alexazabache-3766111.jpg",
+      "SourceId": "ThirdAspSqlCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\wwwroot\\",
+      "BasePath": "_content/ThirdAspSqlCrud",
+      "RelativePath": "pexels-alexazabache-3766111.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pexels-alexazabache-3766111.jpg"
     }
   ]
 }

@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\wwwroot\\default-scaled.jpeg",
+      "PackagePath": "staticwebassets\\default-scaled.jpeg"
+    },
+    {
       "Id": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
@@ -243,6 +247,10 @@
     {
       "Id": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\wwwroot\\pexels-alexazabache-3766111.jpg",
+      "PackagePath": "staticwebassets\\pexels-alexazabache-3766111.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ThirdAspSqlCrud.Microsoft.AspNetCore.StaticWebAssets.props",

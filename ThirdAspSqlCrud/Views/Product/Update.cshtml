@@ -1,0 +1,34 @@
+﻿@model ProductEditViewModel
+
+<style>
+    .sectionLabel{
+        padding-top:7px
+    }
+</style>
+<section class="container border border-secondary rounded p-3">
+    <form method="post" asp-action="Update" asp-controller="Product">
+        <section class="sectionLabel">
+            <label asp-for="Product.Name"></label>
+            <input asp-for="Product.Name" />
+        </section>
+        <section class="sectionLabel">
+            <label asp-for="Product.Description"></label>
+            <input asp-for="Product.Description" />
+        </section>
+        <section class="sectionLabel">
+            <label asp-for="Product.Price"></label>
+            <input asp-for="Product.Price" />
+        </section>
+        <section class="sectionLabel">
+            <label asp-for="Product.Discount"></label>
+            <input asp-for="Product.Discount" />
+        </section>
+        <section class="sectionLabel">
+            <label asp-for="Product.ImgLink"></label>
+            <input asp-for="Product.ImgLink" />
+        </section>
+        <section class="sectionLabel">
+            <button class="btn bg-info d-block w-100" type="submit">Edit</button>
+        </section>
+    </form>
+</section>

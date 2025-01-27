@@ -1,0 +1,9 @@
+﻿@model ThirdAspSqlCrud.Entities.Product
+
+<section class="container border border-info rounded p-3 bg-dark">
+    <h2 class="text-capitalize text-light">Name : @Model.Name</h2>
+    <h2 class="text-capitalize text-light">Description : @Model.Description</h2>
+    <h2 class="text-light">Price : @Model.Price$</h2>
+    <h2 class="text-light">Discount: @Model.Discount</h2>
+    <a class="btn btn-success d-block" asp-action="Index">Back</a>
+</section>

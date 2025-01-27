@@ -141,3 +141,4 @@ C:\Users\ASUS\source\repos\ThirdAspSqlCrud\ThirdAspSqlCrud\bin\Debug\net8.0\runt
 C:\Users\ASUS\source\repos\ThirdAspSqlCrud\ThirdAspSqlCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\ASUS\source\repos\ThirdAspSqlCrud\ThirdAspSqlCrud\obj\Debug\net8.0\ThirdAspSqlCrud.csproj.AssemblyReference.cache
 C:\Users\ASUS\source\repos\ThirdAspSqlCrud\ThirdAspSqlCrud\obj\Debug\net8.0\ThirdAsp.59C62564.Up2Date
+C:\Users\ASUS\source\repos\ThirdAspSqlCrud\ThirdAspSqlCrud\obj\Debug\net8.0\ThirdAspSqlCrud.sourcelink.json

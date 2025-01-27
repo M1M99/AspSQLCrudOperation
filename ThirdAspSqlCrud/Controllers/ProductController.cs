@@ -30,9 +30,45 @@ namespace ThirdAspSqlCrud.Controllers
             return View();
         }
         [HttpPost]
-        public async Task<ActionResult>Add(ProductAddViewModel vm) {
-            await _productService.AddAsync(vm.Product);
-            return RedirectToAction("Index");
+        public async Task<ActionResult> Add(ProductAddViewModel vm)
+        {
+            if (ModelState.IsValid)
+            {
+                await _productService.AddAsync(vm.Product);
+                return RedirectToAction("Index");
+            }
+            return View(vm);
+        }
+        [HttpGet]
+        public async Task<ActionResult> Update(int id)
+        {
+            var product = await _productService.GetWithId(id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+            var vm = new ProductEditViewModel
+            {
+                Product = product
+            };
+            return View(vm);
+        }
+
+        [HttpPost]
+        public async Task<ActionResult> Update(int id, ProductEditViewModel vm)
+        {
+            if (ModelState.IsValid)
+            {
+                await _productService.Update(id, vm);
+                return RedirectToAction("Index");
+            }
+            return View(vm);
+        }
+
+        public async Task<IActionResult> GetWithId(int id)
+        {
+            var prod = await _productService.GetWithId(id);
+            return View(prod);
         }
     }
 }
