@@ -13,7 +13,7 @@
                 {
                     <section class="text-black text-capitalize p-2">
                         <span class="fw-bolder">@item.Id</span>. <span class="text-light">@item.Name</span> - <span class="font-monospace text-light">@item.Description - $@item.Price</span>
-                        <img style="width:30px;height:30px" src="@(!string.IsNullOrEmpty(item.ImgLink) ? item.ImgLink : "default-scaled.jpeg")" />
+                        <img style="width:40px;height:40px" src="@(!string.IsNullOrEmpty(item.ImgLink) ? item.ImgLink : "default-scaled.jpeg")" />
                         <a class="btn alert-warning btn-success p-1" asp-controller="Product" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
                         <a class="btn alert-warning btn-success p-1" asp-controller="Product" asp-action="update" asp-route-id="@item.Id">Update</a>
                         <a asp-action="GetWithId" class="btn alert-dark btn-success p-1" asp-route-id="@item.Id">Details</a>

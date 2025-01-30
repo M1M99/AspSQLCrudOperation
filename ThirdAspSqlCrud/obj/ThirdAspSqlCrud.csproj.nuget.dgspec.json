@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\AspSQLCrudOperation\\ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\AspSQLCrudOperation\\ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\AspSQLCrudOperation\\ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj",
         "projectName": "ThirdAspSqlCrud",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\AspSQLCrudOperation\\ThirdAspSqlCrud\\ThirdAspSqlCrud.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\ThirdAspSqlCrud\\ThirdAspSqlCrud\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\AspSQLCrudOperation\\ThirdAspSqlCrud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

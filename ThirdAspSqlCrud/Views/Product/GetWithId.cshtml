@@ -1,9 +1,25 @@
 ﻿@model ThirdAspSqlCrud.Entities.Product
 
-<section class="container border border-info rounded p-3 bg-dark">
-    <h2 class="text-capitalize text-light">Name : @Model.Name</h2>
-    <h2 class="text-capitalize text-light">Description : @Model.Description</h2>
-    <h2 class="text-light">Price : @Model.Price$</h2>
-    <h2 class="text-light">Discount: @Model.Discount</h2>
-    <a class="btn btn-success d-block" asp-action="Index">Back</a>
+<section class="container row border border-info rounded p-3 bg-dark">
+    <div class="col-6">
+        <h2 class="text-capitalize text-light">Name: @Model.Name</h2>
+        <h2 class="text-capitalize text-light">Description: @Model.Description</h2>
+        <h2 class="text-light">Price: @Model.Price$</h2>
+        <h2 class="text-light">Discount: @Model.Discount</h2>
+    </div>
+
+    @if (!string.IsNullOrEmpty(Model.ImgLink))
+    {
+        <div class="col-6">
+            <img src="@Url.Content(Model.ImgLink)" alt="Product Image" style="max-width: 100%; height: auto; border-radius: 8px;" />
+        </div>
+    }
+    else
+    {
+        <div class="col-6">
+            <p class="text-light">No image available</p>
+        </div>
+    }
+
+    <a class="btn btn-success d-block m-2" asp-action="Index">Back</a>
 </section>

@@ -6,7 +6,7 @@
         font-weight: 600;
     }
 </style>
-<form asp-action="Add" method="post" asp-controller="product">
+<form asp-action="Add" method="post" asp-controller="Product" enctype="multipart/form-data"> @*html corerct img update*@
     <section class="container border border-primary rounded p-4 text-center w-75">
         <section class="select1">
             <label asp-for="Product.Name"></label>
@@ -33,8 +33,8 @@
         </section>
 
         <section class="select1">
-            <label asp-for="Product.ImgLink"></label>
-            <input asp-for="Product.ImgLink" />
+            <label asp-for="Product.ImgLink">Product Image</label>
+            <input type="file" name="imgFile" accept="image/*" />
         </section>
 
         <section>
